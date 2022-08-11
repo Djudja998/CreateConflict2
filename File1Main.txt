@@ -1,2 +1,2 @@
 Ovo je file1 u mainu.
-asdasd
+ovo je izmjena iz feature1.
